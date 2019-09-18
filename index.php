@@ -124,7 +124,7 @@
 
           <div class="services-block">
 
-            <a href="404.html">
+            <a href="event-grid.html">
             <i><ion-icon  style="color: #00001e" name="calendar"></ion-icon></i>
             <span>Event</span>
             <p class="separator">Anda dapat melihat Event/kegiatan yang kami lakukan</p>
